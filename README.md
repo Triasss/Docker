@@ -11,6 +11,7 @@ Las credenciales necesarias de tener en el .env para poder levantarlo:
 · MYSQL_HOST=db
 
 Para levantar la contenedor con imagen 
+
 · docker compose up
 
 Para levantar el contenedor y construir la imagen
