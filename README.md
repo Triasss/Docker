@@ -1,4 +1,4 @@
-Las credenciales necesarias para poder levantarlo y funcionando:
+Las credenciales necesarias de tener en el .env para poder levantarlo:
 
 · MYSQL_ROOT_PASSWORD=root
 
