@@ -10,6 +10,9 @@ Las credenciales necesarias para poder levantarlo y funcionando:
 
 · MYSQL_HOST=db
 
+Para levantar la contenedor con imagen 
+· docker compose up
+
 Para levantar el contenedor y construir la imagen
 
 · docker compose up --build
