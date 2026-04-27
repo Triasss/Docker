@@ -28,4 +28,4 @@ Para ver el proyecto levantado entra en esta url
 
 Para parar el proyecto
   
-· docker compose down -v
+· docker compose down
